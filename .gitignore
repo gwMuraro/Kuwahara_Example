@@ -1,2 +1,4 @@
 result_images/*
 source_images/*
+!result_images/.gitkeep
+!source_images/.gitkeep
